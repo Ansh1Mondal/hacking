@@ -1,0 +1,23 @@
+.S-container{
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    grid-template-rows: 30% 70%;
+    /* background-color:  #FFDCBC; */
+}
+.S-up{
+    height: 80%;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background-color:  #ffdcbc80   ;
+    width: 80%;
+    border-radius: 50px;
+    margin-left: 9rem;
+}
+.S-head{
+    font-size: 1.5rem;
+}
